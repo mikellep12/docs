@@ -1,3 +1,4 @@
+docs/content/desktop/installing-and-configuring-github-desktop/installing-github-desktop.md
 ---
 title: Installing GitHub Desktop
 shortTitle: Installation
